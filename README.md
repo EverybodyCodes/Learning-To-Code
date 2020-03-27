@@ -1,10 +1,13 @@
 # Learning To Code
-A repo containing information about learning to code...!
+A repo containing information about learning to code!
 
 ---
 
-## Great Sites With Coding Video Courses
-One of the easiest and most effective ways to begin learning how to code is to go through a video course! Below are just a few excellent ones.
+## Great Sites With Video Courses On How to Code
+One of the easiest and most effective ways to begin learning how to code is to go through a video course! 
+
+Below are just a few excellent ones.
+
 
 - [Egghead](https://egghead.io/)
 
@@ -15,7 +18,7 @@ One of the easiest and most effective ways to begin learning how to code is to g
 
 
 ## Great Sites With Coding Practice Problems
-Once you understand the basics of coding it's time to dive in and start solving some coding exercises!
+Once you understand the basics of coding, it's time to dive in and start solving some coding exercises!
 
 - [Exercism.io](https://exercism.io/)
 
