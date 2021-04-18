@@ -26,6 +26,7 @@ Once you understand the basics of coding, it's time to dive in and start solving
 
 - [Hacker Rank](https://www.hackerrank.com/)
 
+- [Codewars](https://www.codewars.com/)
 
 ## PLEASE CONTRIBUTE TO THIS DOCUMENT!!
 There are undoubtedly great resources that exist which haven't been mentioned yet in this doc. 
